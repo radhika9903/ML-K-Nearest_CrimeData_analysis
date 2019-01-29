@@ -15,7 +15,8 @@ How to Run:
 
 
 
-Algorithm
+Algorithm:
+
 Let m be the number of training data samples. Let p be an unknown point.
 
 1.Store the training samples in an array of data points arr[]. This means each element of this array represents a tuple (x, y).
@@ -26,12 +27,6 @@ Let m be the number of training data samples. Let p be an unknown point.
 3.Make set S of K smallest distances obtained. Each of these distances correspond to an already classified data point.
 
 4.Return the majority label among S.
-
-
-
-Score :
- 
-
 
 Tools/Languages:
 Python 3.0
