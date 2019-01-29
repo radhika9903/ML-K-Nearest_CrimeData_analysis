@@ -6,6 +6,7 @@ I have used K-Nearest Neighbours which is one of the most basic yet essential cl
 
 
 How to Run:
+
 1.Place all input files in one folder
 
 2.Save crime_data_analysis.py in the same folder
